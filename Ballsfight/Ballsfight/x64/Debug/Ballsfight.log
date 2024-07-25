@@ -1,0 +1,6 @@
+﻿  test.cpp
+D:\c learning\Ballsfight\Ballsfight\test.cpp(50,2): warning C4091: 'typedef ': ignored on left of 'Ball' when no variable is declared
+D:\c learning\Ballsfight\Ballsfight\test.cpp(50,8): warning C4091: '': ignored on left of 'Ball' when no variable is declared
+D:\c learning\Ballsfight\Ballsfight\test.cpp(96,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\c learning\Ballsfight\Ballsfight\test.cpp(124,9): warning C4552: '%': result of expression not used
+  Ballsfight.vcxproj -> D:\c learning\Ballsfight\x64\Debug\Ballsfight.exe
